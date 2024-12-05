@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-CORS
+pandas
+joblib
+numpy
+scikit-learn
+SQLAlchemy
+Flask-JWT-Extended
